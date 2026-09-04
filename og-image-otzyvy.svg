@@ -1,0 +1,8 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#030712"/>
+  <text x="600" y="260" font-family="system-ui, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">Отзывы участников</text>
+  <text x="600" y="330" font-family="system-ui, sans-serif" font-size="24" fill="#06b6d4" text-anchor="middle">Как клуб меняет мышление и карьеру</text>
+  <text x="600" y="380" font-family="system-ui, sans-serif" font-size="20" fill="#9ca3af" text-anchor="middle">Инженеры • Тимлиды • EM • Системное мышление</text>
+  <text x="600" y="440" font-family="system-ui, sans-serif" font-size="20" fill="#9ca3af" text-anchor="middle">masha-normalno.ru/otzyvy</text>
+  <rect x="550" y="480" width="100" height="4" fill="#06b6d4" rx="2"/>
+</svg>
